@@ -1,9 +1,10 @@
 {
   "name": "webgl-fonts",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "type": "module",
   "description": "Crisp WebGL font rendering on the GPU with glyph hinting and subpixel antialiasing.",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+ssh://github.com/mate-h/webgl-fonts.git"
